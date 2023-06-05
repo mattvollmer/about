@@ -22,3 +22,8 @@ When it comes to collaboration via Slack, I've found these strategies to be most
 2. Use threads to keep related discussions separate and maintain clarity. We also shouldn't assume that everyone else is following our conversation, so include adequate context for those who need to catch up (or for our own future reference).
 3. Avoid expecting immediate responses, and understand that asynchronous communication allows for flexibility in response times. We need to make sure our status and quiet hours are visibly reflected (and accurate) in Slack.
 4. Use @mentions judiciously.
+
+## "Data driven"
+Being data driven is not what a lot of people think. It doesn't mean that we need a graph for everything that can be measured. It doesn't mean that every piece of data needs to line up 100% of the time. Data is a reflection of ourselves. Sometimes it can be disorganized and incoherent, and that's okay. However, using these excuses to disregard data altogether can leave us blind.
+
+Being a “data driven” product marketer/product manager means that I use data to extract the signal from the noise. I use data as bread crumbs to help me find a trail and sometimes I use it to find hints for where to look next.
