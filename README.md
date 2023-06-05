@@ -1,7 +1,7 @@
 # ReadMe
 
 ## Work style
-I thrive in an autonomous work environment, where I can work independently and efficiently. Asynchronous collaboration is my preferred mode of operation, allowing me to focus on tasks without constant context switching. I am a strong advocate for ruthless prioritization to ensure that I can deliver high-quality results without being overwhelmed by numerous requests.
+I thrive in an autonomous work environment, where I can work independently and efficiently. Asynchronous collaboration is my preferred mode of operation, allowing me to focus on tasks without constant context switching. I am a strong advocate for ruthless prioritization to ensure that I can deliver high-quality results without being overwhelmed by unnecessary or less-important requests.
 
 ## Collaboration preferences
 When it comes to collaboration, I highly value objective and open-minded team members who are willing to check their ego at the door. I believe that the best outcome is achieved when we work together iteratively, focusing on finding the right answer rather than on individual contributions. A collaborative work environment that fosters innovation and respects diverse perspectives is where I thrive.
