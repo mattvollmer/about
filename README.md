@@ -27,3 +27,13 @@ When it comes to collaboration via Slack, I've found these strategies to be most
 Being data driven is not what a lot of people think. It doesn't mean that we need a graph for everything that can be measured. It doesn't mean that every piece of data needs to line up 100% of the time. Data is a reflection of ourselves. Sometimes it can be disorganized and incoherent, and that's okay. However, using these excuses to disregard data altogether can leave us blind.
 
 Being a “data driven” product marketer/product manager means that I use data to extract the signal from the noise. I use data as bread crumbs to help me find a trail and sometimes I use it to find hints for where to look next.
+
+## Measuring success
+The question that inevitably (and rightfully) comes up is, how do we measure the success of product marketing? The challenge is that the preferred measures of success are usually lagging indicators: revenue, win rate, and pipeline. 
+
+One way to keep the focus of the product marketing team strategic is to consider operational metrics. For example:
+1. Number of persona interviews conducted
+2. Number of sales calls attended/reviewed
+3. Number of win/loss interviews
+
+These are easily measurable outcomes that will help product marketing teams, and the entire organization, zero-in on what will most satisfy users.
