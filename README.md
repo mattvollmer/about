@@ -19,7 +19,7 @@ This is especially important in remote-first environments where it's not as easy
 Whether it's praise or suggestions for improvement, I'll catch up with you after interaction that calls for clarification or feedback. I don't wait until 1:1 meetings because by then, it's old news.
 
 ## 1:1
-If you're on my team and report to me, then 1:1 meetings are _your time_. I will never force an agenda for our 1:1 meetings. If I have organizational updates to share, I will hold them until the end. Otherwise, any feedback I need to give you will be given in near real-time -- I won't wait until our 1:1.
+If you're on my team and report to me, then 1:1 meetings are _your time_. I will never force an agenda for our 1:1 meetings. If I have organizational updates to share, I will hold them until the end. Otherwise, any feedback I need to give you will be given in near real-time. I won't wait until our 1:1.
 
 When we meet and for how long is completely up to you, my only ask is that we meet no less frequently than every other week. If you have a question or want feedback, please don't wait until our next 1:1. I would prefer to help you sooner.
 
