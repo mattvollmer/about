@@ -12,22 +12,24 @@ When it comes to collaboration, I highly value objective and open-minded team me
 I always approach my work by beginning with the end in mind. Before initiating any project or task, it is crucial to understand the objective and clearly define what success looks like. By setting clear goals and outcomes from the start, I can ensure that my efforts are aligned with the desired results. If I ask a lot of questions in the beginning, it's not because I'm challenging you.
 
 ## Feedback
-Being open to giving and receiving feedback is crucial for improving ourselves. In my opinion, it's the best tool for personal growth and building trust within a team. I'm all about radical candor, which means I believe in giving constructive feedback right in the moment. This is especially important in remote-first environments where it's not as easy to read a room.
+Being open to giving and receiving feedback is crucial for improving ourselves. It's the best tool for building trust within a team. I'm all about radical candor, which means I believe in giving constructive feedback right in the moment.
+
+This is especially important in remote-first environments where it's not as easy to read a room. It's too easy for us to unintentionally miss a tell or signal that we may need to course correct.
 
 Whether it's praise or suggestions for improvement, I'll catch up with you after interaction that calls for clarification or feedback. I don't wait until 1:1 meetings because by then, it's old news.
 
 ## Meetings
 Sometimes meetings are necessary and these are the ground rules I abide by:
-1. Every meeting should have a clear purpose and agenda, outlining the topics to be discussed and the desired outcomes.
+1. Every meeting should have a **clear purpose and agenda**, outlining the topics to be discussed and the desired outcomes.
 2. Meetings should be scheduled with a reasonable notice period to allow invitees to prepare and prioritize their time.
 3. Invitees should be limited to only those who are essential for achieving the meeting's objectives.
 4. The meeting should begin and end on time. If a meeting is scheduled for more than 30 minutes, we should closely assess if we have an attainable objective defined.
 
-## Asynchronous collaboration
-When it comes to collaboration via Slack, I've found these strategies to be most effective:
-1. Whenever possible, conduct discussions and transparently share information in public channels rather than resorting to direct messages. Depending on the sensitivity of our conversation, I might ask you to take our conversation out of DM and into a public channel.
+## Asynchronous communication
+When it comes to communication via Slack, I've found these strategies to be most effective:
+1. Whenever possible, conduct discussions and share information in public channels rather than direct messages. Depending on the sensitivity of our conversation, I might ask to take our conversation out of DM and into a public channel.
 2. Use threads to keep related discussions separate and maintain clarity. We also shouldn't assume that everyone else is following our conversation, so include adequate context for those who need to catch up (or for our own future reference).
-3. Avoid expecting immediate responses, and understand that asynchronous communication allows for flexibility in response times. We need to make sure our status and quiet hours are visibly reflected (and accurate) in Slack.
+3. Avoid expecting immediate responses, and understand that asynchronous communication allows for flexibility in response times. If there is a business-critical need, then Slack isn't the appropriate channel -- I'll never fault someone for calling me.
 4. Use @mentions judiciously.
 
 ## Measuring success
