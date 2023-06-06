@@ -11,12 +11,21 @@ When it comes to collaboration, I highly value objective and open-minded team me
 ## Approach to work
 I always approach my work by beginning with the end in mind. Before initiating any project or task, it is crucial to understand the objective and clearly define what success looks like. By setting clear goals and outcomes from the start, I can ensure that my efforts are aligned with the desired results. If I ask a lot of questions in the beginning, it's not because I'm challenging you.
 
-## Feedback
+## Radical candor
 Being open to giving and receiving feedback is crucial for improving ourselves. It's the best tool for building trust within a team. I'm all about radical candor, which means I believe in giving constructive feedback right in the moment.
 
 This is especially important in remote-first environments where it's not as easy to read a room. It's too easy for us to unintentionally miss a tell or signal that we may need to course correct.
 
 Whether it's praise or suggestions for improvement, I'll catch up with you after interaction that calls for clarification or feedback. I don't wait until 1:1 meetings because by then, it's old news.
+
+## Giving (and receiving) feedback
+It's not easy. Feedback can feel like conflict and we are wired to avoid conflict. To help with this, here are some tips for giving feedback to our teammates and for respectfully processing incoming feedback.
+
+- **Assume good intent**. We are all in this together and on rare occasions do people act in malice.
+- Use the SBI framework (Situation, Behaviour, Impact).
+  - When you did/say ____________, I felt ______________ because ___________.
+- _Thanks for the feedback._
+  - Receiving feedback is not about automatically agreeing and changing what you do. All you have to do is to acknowledge and consider it, and maybe ask questions if you need clarification.
 
 ## 1:1
 If you're on my team and report to me, then 1:1 meetings are _your time_. I will never force an agenda for our 1:1 meetings. If I have organizational updates to share, I will hold them until the end. Otherwise, any feedback I need to give you will be given in near real-time. I won't wait until our 1:1.
