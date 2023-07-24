@@ -1,12 +1,22 @@
 # ReadMe
 
-## Work style
+## Workstyle
 I thrive in an autonomous work environment, where I can work independently and efficiently. Asynchronous collaboration is my preferred mode of operation, allowing me to focus on tasks without constant context switching. I am a strong advocate for ruthless prioritization to ensure that I can deliver high-quality results without being overwhelmed by unnecessary or less-important requests.
 
 ## Team values
 "If you want to go fast, go alone. If you want to go far, go together."
 
-When it comes to collaboration, I highly value objective and open-minded team members who are willing to check their ego at the door. I believe that the best outcome is achieved when we work together iteratively, focusing on finding the right answer rather than on individual contributions. A collaborative work environment that fosters innovation and respects diverse perspectives is where I thrive.
+When it comes to collaboration, I highly value objective and open-minded team members who are willing to check their egos at the door. I believe that the best outcome is achieved when we work together iteratively, focusing on finding the right answer rather than on individual contributions. A collaborative work environment that fosters innovation and respects diverse perspectives is where I thrive.
+
+## Strengths
+
+I perform well when dropped into new or undefined situations because I can quickly zoom into details and then back out to strategic objectives. I'm a naturally curious person, so asking questions is my way of bringing form to otherwise nebulous problems or initiatives.
+
+## ~~Weaknesses~~ Opportunities for improvement
+
+I'm a recovering workaholic. For a long time, my profession defined who I was. Eventually, this began to chip away at my physical, emotional, and mental health. Further, it began to decay relationships with those who mean the most to me.
+
+Each day is an effort to maintain harmony between work and life. I'm a big believer in setting boundaries and learning how to professionally say no.
 
 ## Approach to work
 I always approach my work by beginning with the end in mind. Before initiating any project or task, it is crucial to understand the objective and clearly define what success looks like. By setting clear goals and outcomes from the start, I can ensure that my efforts are aligned with the desired results. If I ask a lot of questions in the beginning, it's not because I'm challenging you.
@@ -16,7 +26,7 @@ Being open to giving and receiving feedback is crucial for improving ourselves. 
 
 This is especially important in remote-first environments where it's not as easy to read a room. It's too easy for us to unintentionally miss a tell or signal that we may need to course correct.
 
-Whether it's praise or suggestions for improvement, I'll catch up with you after interaction that calls for clarification or feedback. I don't wait until 1:1 meetings because by then, it's old news.
+Whether it's praise or suggestions for improvement, I'll catch up with you after an interaction that calls for clarification or feedback. I don't wait until 1:1 meetings because by then, it's old news.
 
 ## Giving (and receiving) feedback
 It's not easy. Feedback can feel like conflict and we are wired to avoid conflict. To help with this, here are some tips for giving feedback to our teammates and for respectfully processing incoming feedback.
