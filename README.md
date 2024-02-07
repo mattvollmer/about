@@ -21,6 +21,9 @@ Each day is an effort to maintain harmony between work and life. I'm a big belie
 ## Approach to work
 I always approach my work by beginning with the end in mind. Before initiating any project or task, it is crucial to understand the objective and clearly define what success looks like. By setting clear goals and outcomes from the start, I can ensure that my efforts are aligned with the desired results. If I ask a lot of questions in the beginning, it's not because I'm challenging you.
 
+## Perfection
+While it's not an excuse to act recklessly, I believe that perfection is the enemy of progress. It's an easy trap to fall into so we need to remain conscious of the results our efforts are producing. When we find ourselves agonizing over inconsequentional language changes in release notes, it's time to click the publish button. When we find ourselves making trivial UX optimizations in an unlaunched product, it's time to launch it -- let's fill the funnel and learn now (please). 
+
 ## Radical candor
 Being open to giving and receiving feedback is crucial for improving ourselves. It's the best tool for building trust within a team. I'm all about radical candor, which means I believe in giving constructive feedback right in the moment.
 
@@ -57,14 +60,14 @@ When it comes to communication via Slack, I've found these strategies to be most
 4. Use @mentions judiciously.
 
 ## Measuring success
-The question that invariably comes up is, how do we measure the success of product marketing? The challenge is that our preferred measures of success are usually lagging indicators: revenue, win rate, and pipeline. 
+The question that invariably comes up is, how do we measure the success of Product Marketing? The challenge is that our preferred measures of success are usually lagging sales indicators: revenue, win rate, and pipeline. I subscribe to the idea that Product Marketing goals should closely align with those of Product. Through whatever means necessary, we should collaborate to reach mutually beneficial definitions of success for a product or objective. 
 
-One way to keep the focus of the product marketing team strategic is to consider operational metrics. For example:
+Another way to keep the focus of the Product Marketing team strategic is to consider operational metrics. For example:
 1. Number of persona interviews conducted
 2. Number of sales calls attended/reviewed
 3. Number of win/loss interviews
 
-These are easily measurable outcomes that will help product marketing teams, and the entire organization, zero-in on what will most satisfy users.
+These are easily measurable outcomes that will help Product Marketing teams, and the entire organization, zero-in on what will most satisfy users.
 
 ## Being "data-driven"
 Being data-driven is not what a lot of people think. It doesn't mean that we need a graph for everything that can be measured. It doesn't mean that every piece of data needs to line up 100% of the time. Data is a reflection of ourselves. Sometimes it can be disorganized and incoherent, and that's okay. However, using these excuses to disregard data altogether can leave us blind.
