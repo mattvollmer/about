@@ -1,7 +1,7 @@
 # ReadMe
 
 ## The easy things
-I have high expectations of myself and those around me, but I don’t expect anyone to be a super hero. Still, we should all aim to get the easy things right. Show up to meetings on time, communicate with your manager and peers if you need time away, and always consider how your words might be perceived. When we get the easy things right, no one should notice. When we get the easy things wrong, everyone notices. This is important for everyone, especially those earlier in their careers.
+I have high expectations of myself and those around me, but I don’t expect anyone to be a superhero. Still, we should all aim to get the easy things right. Show up to meetings on time, communicate with your manager and peers if you need time away, and always consider how your words might be perceived. When we get the easy things right, no one should notice. When we get the easy things wrong, everyone notices. This is important for everyone, especially those earlier in their careers.
 
 ## Assume good intent
 No matter how hard we try to get the easy things right, no one bats 1000, ever. Unless an egregious act of malice or poor judgment, if someone slips up, assume good intent. This doesn’t mean you shouldn’t deliver feedback in the appropriate forum; just do it with grace. 
@@ -9,7 +9,6 @@ No matter how hard we try to get the easy things right, no one bats 1000, ever. 
 ## Giving (and receiving) feedback
 It's not easy. Feedback can feel like conflict and we are wired to avoid conflict. To help with this, here are some tips for giving feedback to our teammates and for respectfully processing incoming feedback.
 
-- **Assume good intent**. We are all in this together and on rare occasions do people act in malice.
 - Use the SBI framework (Situation, Behaviour, Impact).
   - When you did/say ____________, I felt ______________ because ___________.
 - _Thanks for the feedback._
