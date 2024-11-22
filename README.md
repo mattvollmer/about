@@ -41,13 +41,13 @@ When it comes to collaboration, I highly value objective and open-minded team me
 We’re all keepers of our environment, especially in a tight-knit startup. If you see or hear something that looks wrong, broken, or completely absent, say something—whether it’s interdepartmental or not. If you’re uncomfortable saying something, try asking why something is the way it is. There’s always a good probability that you found something that needs to be tightened up, so let’s look into it and collaborate on a viable path forward. 
 
 ## Imposter syndrome
-I have it, you have it; we all have it to some degree, and that’s ok. Whether you’re early in your career or a seasoned vet, be fair to yourself and don’t forget to encourage those around you. When you see someone do something well, unprompted acknowledgments are small boosts that help them overcome the psychological hurdles they impose upon themselves. 
-
-## How I approach work
-I always approach my work by beginning with the end in mind. Before initiating any project or task, it is crucial to understand the objective and clearly define what success looks like. By setting clear goals and outcomes from the start, I can ensure that my efforts are aligned with the desired results. If I ask a lot of questions in the beginning, it's not because I'm challenging you.
+I have it, you have it; we all have it to some degree, and that’s ok. Whether you’re early in your career or a seasoned vet, be fair to yourself and don’t forget to encourage those around you. When you see someone do something well, unprompted acknowledgments are small boosts that help them overcome the psychological hurdles they impose upon themselves.
 
 ## Perfection vs. progress
 While it's not an excuse to act recklessly, I believe that perfection is the enemy of progress. It's an easy trap to fall into so we need to remain conscious of the results our efforts are producing. When we find ourselves agonizing over inconsequentional language changes in release notes, it's time to click the publish button. When we find ourselves making trivial UX optimizations in an unlaunched product, it's time to launch it—let's fill the funnel and learn now (please). 
+
+## How I approach work
+I always approach my work by beginning with the end in mind. Before initiating any project or task, it is crucial to understand the objective and clearly define what success looks like. By setting clear goals and outcomes from the start, I can ensure that my efforts are aligned with the desired results. If I ask a lot of questions in the beginning, it's not because I'm challenging you.
 
 ## Meetings
 Sometimes meetings are necessary and these are the ground rules I abide by:
