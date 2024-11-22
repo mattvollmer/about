@@ -27,10 +27,10 @@ If you're on my team and report to me, then 1:1 meetings are _your time_. I will
 When we meet and for how long is completely up to you, my only ask is to meet no less frequently than every other week. If you have a question or want feedback, please don't wait until our next 1:1. I would prefer to help you sooner.
 
 ## Career growth
-Whether you report to me or not, whether you have a 5 year plan or not, I’d love to hear your career aspirations. Knowing what it is you’re chasing will not only help me be a more effective collaborator on your goals, but it will also help me keep an eye out for opportunities where you can exercise new muscles. Even if we’ve worked together for a while but never talked about your aspirations, bring them up during our next 1:1. I’d love to hear what’s on your mind.
+Whether you report to me or not, whether you have a 5 year plan or not, I’d love to hear your career aspirations. Knowing what it is you’re chasing will not only help me be a more effective collaborator on your goals, but it will also help me keep an eye out for opportunities where you can exercise new muscles. Even if we’ve worked together for a long time but never talked about your aspirations, bring them up during our next 1:1. I’d love to hear what’s on your mind.
 
 ## Management style
-I trust you to do the right thing and, if you don’t know what the right thing is, then I expect you to ask. I don’t hover and I can’t micromanage. If we have a plan and you don’t hear from me for a few days, that’s a good signal. But I’m always here if you need me. At a minimum, we should have 1:1s every week and I like to make an effort to check in async via Slack periodically. If you want more or less interaction, just tell me.
+I trust you to do the right thing and, if you don’t know what the right thing is, then I expect you to ask. I don’t hover and I can’t micromanage. If we have a plan and you don’t hear from me for a few days, that’s a good signal. But I’m always here if you need me. At a minimum, we should have 1:1s every week or two and I like to make an effort to check in async via Slack periodically. If you want more or less interaction, just tell me.
 
 ## Team values
 "If you want to go fast, go alone. If you want to go far, go together."
