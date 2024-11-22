@@ -47,7 +47,7 @@ I have it, you have it; we all have it to some degree, and that’s ok. Whether 
 I always approach my work by beginning with the end in mind. Before initiating any project or task, it is crucial to understand the objective and clearly define what success looks like. By setting clear goals and outcomes from the start, I can ensure that my efforts are aligned with the desired results. If I ask a lot of questions in the beginning, it's not because I'm challenging you.
 
 ## Perfection vs. progress
-While it's not an excuse to act recklessly, I believe that perfection is the enemy of progress. It's an easy trap to fall into so we need to remain conscious of the results our efforts are producing. When we find ourselves agonizing over inconsequentional language changes in release notes, it's time to click the publish button. When we find ourselves making trivial UX optimizations in an unlaunched product, it's time to launch it -- let's fill the funnel and learn now (please). 
+While it's not an excuse to act recklessly, I believe that perfection is the enemy of progress. It's an easy trap to fall into so we need to remain conscious of the results our efforts are producing. When we find ourselves agonizing over inconsequentional language changes in release notes, it's time to click the publish button. When we find ourselves making trivial UX optimizations in an unlaunched product, it's time to launch it—let's fill the funnel and learn now (please). 
 
 ## Meetings
 Sometimes meetings are necessary and these are the ground rules I abide by:
