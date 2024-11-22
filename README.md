@@ -1,4 +1,4 @@
-# ReadMe
+# README
 
 ## The easy things
 I have high expectations of myself and those around me, but I don’t expect anyone to be a superhero. Still, we should all aim to get the easy things right. Show up to meetings on time, communicate with your manager and peers if you need time away, and always consider how your words might be perceived. When we get the easy things right, no one should notice. When we get the easy things wrong, everyone notices. This is important for everyone, especially those earlier in their careers.
@@ -40,24 +40,14 @@ When it comes to collaboration, I highly value objective and open-minded team me
 ## Avoidance isn't a strategy
 We’re all keepers of our environment, especially in a tight-knit startup. If you see or hear something that looks wrong, broken, or completely absent, say something—whether it’s interdepartmental or not. If you’re uncomfortable saying something, try asking why something is the way it is. There’s always a good probability that you found something that needs to be tightened up, so let’s look into it and collaborate on a viable path forward. 
 
-## My strengths
-
-I perform well when dropped into new or undefined situations because I can quickly zoom into details and then back out to strategic objectives. I'm a naturally curious person, so asking questions is my way of bringing form to otherwise nebulous problems or initiatives.
-
-## My ~~Weaknesses~~ opportunities
-
-I'm a recovering workaholic. For a long time, my profession defined who I was. Eventually, this began to chip away at my physical, emotional, and mental health. Further, it began to decay relationships with those who mean the most to me.
-
-Each day is an effort to maintain harmony between work and life. I'm a big believer in setting boundaries and learning to say no professionally. My goal is to finish the marathon, not the sprint.
+## Imposter syndrome
+I have it, you have it; we all have it to some degree, and that’s ok. Whether you’re early in your career or a seasoned vet, be fair to yourself and don’t forget to encourage those around you. When you see someone do something well, unprompted acknowledgments are small boosts that help them overcome the psychological hurdles they impose upon themselves. 
 
 ## How I approach work
 I always approach my work by beginning with the end in mind. Before initiating any project or task, it is crucial to understand the objective and clearly define what success looks like. By setting clear goals and outcomes from the start, I can ensure that my efforts are aligned with the desired results. If I ask a lot of questions in the beginning, it's not because I'm challenging you.
 
-## Perfection
+## Perfection vs. progress
 While it's not an excuse to act recklessly, I believe that perfection is the enemy of progress. It's an easy trap to fall into so we need to remain conscious of the results our efforts are producing. When we find ourselves agonizing over inconsequentional language changes in release notes, it's time to click the publish button. When we find ourselves making trivial UX optimizations in an unlaunched product, it's time to launch it -- let's fill the funnel and learn now (please). 
-
-## Imposter syndrome
-I have it, you have it; we all have it to some degree, and that’s ok. Whether you’re early in your career or a seasoned vet, be fair to yourself and don’t forget to encourage those around you. When you see someone do something well, unprompted acknowledgments are small boosts that help them overcome the psychological hurdles they impose upon themselves. 
 
 ## Meetings
 Sometimes meetings are necessary and these are the ground rules I abide by:
@@ -87,3 +77,5 @@ These are easily measurable outcomes that will help Product Marketing teams, and
 Being data-driven is not what a lot of people think. It doesn't mean that we need a graph for everything that can be measured. It doesn't mean that every piece of data needs to line up 100% of the time. Data is a reflection of ourselves. Sometimes it can be disorganized and incoherent, and that's okay. However, using these excuses to disregard data altogether can leave us blind.
 
 Being a “data-driven” product marketer/product manager means that I use data to extract the signal from the noise. I use data as bread crumbs to help me find a trail and sometimes I use it to find hints for where to look next.
+
+
